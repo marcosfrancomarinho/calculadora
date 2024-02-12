@@ -1,4 +1,4 @@
-const operator = ["+", "-", "*", "/", "CE", "=", "%"];
+const operator = ["+", "-", "*", "/", "CE", "C", "=", "%"];
 const $ = selector => {
     const element = document.querySelectorAll(selector)
     return element.length > 1 ? element : element[0]
