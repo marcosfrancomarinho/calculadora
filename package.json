@@ -1,0 +1,19 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "calcuadora feita com java script css html.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosfrancomarinho/calculadora.git"
+  },
+  "author": "marcos marinho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcosfrancomarinho/calculadora/issues"
+  },
+  "homepage": "https://github.com/marcosfrancomarinho/calculadora#readme"
+}
